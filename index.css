@@ -114,4 +114,7 @@ p {
     width: 100%;
    
 }
+  .post-image, .post-image-two, .post-image-three {
+    width: 98%;
+}
 }
