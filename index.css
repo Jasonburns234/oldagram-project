@@ -19,6 +19,7 @@ html, body {
 .container {
     display: block;
     max-width: 375px;
+    min-width: 350px;
     box-shadow: 0 0 3px #000000;
     margin: 20px auto;
     background-color: #fff;
