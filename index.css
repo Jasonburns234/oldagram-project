@@ -61,7 +61,7 @@ hr {
 }
 
 .post-image, .post-image-two, .post-image-three {
-    max-width: 373px;
+    width: 398px;
     display: block;
     margin: 0 auto;
 }
