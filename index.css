@@ -112,6 +112,7 @@ p {
 .container {
     
     width: 100%;
+    margin: 20px auto;
    
 }
   .post-image, .post-image-two, .post-image-three {
